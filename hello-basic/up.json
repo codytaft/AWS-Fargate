@@ -1,0 +1,7 @@
+{
+  "name": "hello-basic",
+  "profile": "prisma",
+  "regions": [
+    "us-west-2"
+  ]
+}
