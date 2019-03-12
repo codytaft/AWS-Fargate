@@ -1,0 +1,7 @@
+projects:
+  yoga-test:
+    schemaPath: datamodel.graphql
+    extensions:
+      endpoints:
+        dev: >-
+          http://my-pr-Publi-I64X5576HWNH-1555604546.us-west-2.elb.amazonaws.com/my-prisma-service/dev
