@@ -1,7 +1,0 @@
-{
-  "name": "my-prisma-service",
-  "profile": "default",
-  "regions": [
-    "us-west-2"
-  ]
-}
